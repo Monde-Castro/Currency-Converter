@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\bin\Debug\Currency Converter.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency Converter.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency Converter.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.frmCurrencyConverter.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\bin\Debug\Currency Converter.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Currency Converter\Currency Converter\obj\Debug\Currency Converter.application
