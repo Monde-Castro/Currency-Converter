@@ -1,0 +1,2 @@
+# Currency-Converter
+This program will be able to accept any Amount in South African Rand – ZAR as input and convert it to the desired currency. To do this conversion the program must multiply the Amount (ZAR) with the Exchange Rate to get the Converted Amount in the desired foreign currency.  Convert from South African Rand – ZAR to: United Kingdom Pounds – GBP, Euro – EUR or Russian Rubles - RUB
